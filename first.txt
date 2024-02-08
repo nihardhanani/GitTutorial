@@ -1,0 +1,4 @@
+Update the file. Change 1
+made a change before tracking
+-Changed after ading to the staging area. Which means it is being tracked now. 
+change 2
